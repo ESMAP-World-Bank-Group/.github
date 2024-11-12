@@ -1,35 +1,20 @@
-# World Bank on GitHub
+# ESMAP on GitHub
 
-Welcome to the World Bank’s GitHub organization! Here, you’ll find a variety of projects, tools, and resources developed by our teams to support global development initiatives.
+Welcome to the ESMAP’s GitHub organization! Here, you’ll find a variety of projects, tools, and resources developed by our teams to support global development initiatives.
 
-***✨ Not yet a member?*** Submit a request via eServices on the WB intranet.
+As part of the World Bank Group, ESMAP adheres to the same guidelines and code of conduct as the World Bank’s GitHub community. This commitment ensures a respectful and inclusive environment for all contributors. The [World Bank’s GitHub](https://github.com/worldbank) repositories implement the Code of Conduct, which outlines expected behaviors and enforcement procedures.
 
 ## Our Mission
 
-The World Bank Group's mission is to end extreme poverty and boost shared prosperity on a livable planet. We collaborate with governments, private sector partners, and civil society to tackle the most pressing challenges facing the world today. Through innovation, data-driven insights, and sustainable development practices, we aim to create a better future for all. Our work spans various sectors, including education, healthcare, infrastructure, and environmental sustainability. To learn more about who we are and what we do, visit our official website: worldbank.org.
+For 40 years, ESMAP has collaborated with the World Bank and over 20 partners to assist developing and emerging-market countries in addressing their energy challenges. Supported by governments and foundations, ESMAP's team of more than 50 experts leads initiatives at the forefront of energy transformation.
 
 ## Contributing
 
-We welcome contributions from the open-source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](https://github.com/worldbank/.github/blob/main/CONTRIBUTING.md) file in each repository.
+We welcome contributions from the open-source community. If you're interested in contributing or collaborating on our projects, please follow our guidelines outlined in the [CONTRIBUTING](https://github.com/ESMAP-World-Bank-Group/.github/blob/main/CONTRIBUTING.md) file in each repository.
 
 ## Code of Conduct
 
-We are committed to fostering an inclusive and respectful environment for everyone. Please review and adhere to our [Code of Conduct](https://github.com/worldbank/.github/blob/main/CODE_OF_CONDUCT.md) in all interactions within our community.
-
-## Discussions
-
-We encourage [discussions](https://github.com/orgs/worldbank/discussions) on topics related to data, development economics, and other relevant areas. Feel free to start discussions, ask questions, or share insights through the following channels:
-
-- [📣 Announcements](https://github.com/orgs/worldbank/discussions/categories/announcements): Stay tuned with latest announcements
-- [💬 General](https://github.com/orgs/worldbank/discussions/categories/general): Chat about anything and everything here
-- [💡 Ideas](https://github.com/orgs/worldbank/discussions/categories/ideas): Share ideas for new features and projects
-- [🙏 Q&A](https://github.com/orgs/worldbank/discussions/categories/q-a): Ask the community for help
-
-If you have general questions or want to engage in broader conversations, please use the [🙏 Q&A](https://github.com/orgs/worldbank/discussions/categories/q-a) section. Let's collaborate to drive positive change and contribute to the World Bank's mission!
-
-## Contact Us
-
-For inquiries or more information about our organization and projects, you can reach out to us at [github@worldbank.org](mailto:github@worldbank.org).
+We are committed to fostering an inclusive and respectful environment for everyone. Please review and adhere to our [Code of Conduct](https://github.com/ESMAP-World-Bank-Group/.github/blob/main/CODE_OF_CONDUCT.md) in all interactions within our community.
 
 ## License
 
